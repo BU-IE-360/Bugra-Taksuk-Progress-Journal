@@ -19,4 +19,4 @@
 
 ## Project 
 
-- [As a term project](FinalProjectReport.html), as a group we tried to forecast sales of nine products of Trendyol for the next day for 14 days. For forecasting, we used three main model which are Multiple Linear Regression for non-seasonal products and ARIMA, ARIMAX for seasonal products. This report summarizes the analysis and the how we approach to the problem. 
+- [As a term project](FinalProjectReport (1).html), as a group we tried to forecast sales of nine products of Trendyol for the next day for 14 days. For forecasting, we used three main model which are Multiple Linear Regression for non-seasonal products and ARIMA, ARIMAX for seasonal products. This report summarizes the analysis and the how we approach to the problem. 
