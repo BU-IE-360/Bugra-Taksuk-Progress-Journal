@@ -13,3 +13,10 @@
 
 ## Homework 3 (June 06)
 - [In this homework](Homework3.html) , we are asked to investigate the seasonality, decompose the series based on our seasonality and trend findings and lastly prepare ARIMA models comparing the performance of each other. The data is provided by  https://seffaflik.epias.com.tr/transparency/ and the scope of the data is from 1st of January, 2016 till the 20th of May, 2021.
+
+## Homework 4-5 (July 2)
+- [In this homework](Homework_4_and_5 (1).html) , we investigated the seasonality and trend patterns for nine products of the Trendyol to come up with a ARIMA or ARIMAX model. Findings in this homework then used in the project phase which we are asked to forecast sales data each day. 
+
+## Project 
+
+- [As a term project](FinalProjectReport.html), as a group we tried to forecast sales of nine products of Trendyol for the next day for 14 days. For forecasting, we used three main model which are Multiple Linear Regression for non-seasonal products and ARIMA, ARIMAX for seasonal products. This report summarizes the analysis and the how we approach to the problem. 
